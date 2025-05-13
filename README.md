@@ -15,7 +15,7 @@
   <a href="https://t.me/FlexDevelopers">
     <img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram" alt="Telegram Channel">
   </a>
-  <a href="https://github.com/yourusername/DailyBrief">
+  <a href="https://github.com/FlexDevelopers/DailyBrief/">
     <img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github" alt="GitHub Repo">
   </a>
   <a href="https://pella.app">
