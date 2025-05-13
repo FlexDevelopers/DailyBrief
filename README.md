@@ -50,13 +50,13 @@
 
 ## API Providers
 
-### 1. **NewsAPI.org** (Global News)
+#### 1. **NewsAPI.org** (Global News)
 
 - Endpoint: `https://newsapi.org/v2/top-headlines`
 - Free plan available
 - Sign up at: https://newsapi.org/
 
-### 2. **RapidAPI - BBC Sinhala**
+#### 2. **RapidAPI - BBC Sinhala**
 
 - Endpoint: `https://latest-sri-lankan-news.p.rapidapi.com/latest-news/bbcsinhala`
 - Sign up at: https://rapidapi.com/
